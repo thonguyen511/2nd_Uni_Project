@@ -1,0 +1,8 @@
+dependencies:
+  idf: '>=4.4'
+description: USB Host UVC driver
+targets:
+- esp32s2
+- esp32s3
+url: https://github.com/espressif/idf-extra-components/tree/master/usb/usb_host_uvc
+version: 1.0.0

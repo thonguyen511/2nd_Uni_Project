@@ -1,0 +1,21 @@
+dependencies:
+  espressif/mdns:
+    component_hash: 810ec139689ae93bf42520d05de4855fbb68f7140ef67797d91d8d61829589cb
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.2.2
+  espressif/usb_host_uvc:
+    component_hash: 032c2fc4b29347fdc81d88d419c2ebf5c4dc1fca9bc609a2d5f3d1bfacb4f8c0
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.0
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.1
+manifest_hash: d8d5ba5b8611b96de8c404054782cf00a38baac3017eb9d5106b117439ce995d
+target: esp32s3
+version: 1.0.0
